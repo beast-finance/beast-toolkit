@@ -79,32 +79,22 @@ export const socials = [
   {
     label: "Twitter",
     icon: "Twitter",
-    href: "#",
+    href: "https://twitter.com/FUNBeastCrypto",
   },
   {
     label: "Telegram",
     icon: "Telegram",
-    href: "#"
-  },
-  {
-    label: "Reddit",
-    icon: "Reddit",
-    href: "#",
-  },
-  {
-    label: "Instagram",
-    icon: "Instagram",
-    href: "#",
+    href: "https://t.me/funbeast",
   },
   {
     label: "Github",
     icon: "Github",
-    href: "#",
+    href: "https://github.com/FunBeast",
   },
   {
     label: "Discord",
     icon: "Discord",
-    href: "#",
+    href: "https://discord.gg/t2BbVprDj2",
   },
 ];
 
